@@ -1,0 +1,22 @@
+/*
+Theme Name: Path Finder Lab
+Theme URI: https://wordpress.org/themes/twentynineteen/
+Author: Mediusware
+Author URI: https://wordpress.org/
+ */
+
+.navbar{
+    display: flex;
+}
+
+.menu-item{
+    list-style: none!important;
+    padding: 7px;
+}
+
+.menu-item a{
+    color: #3e3d3d;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
